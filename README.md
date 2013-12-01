@@ -1,8 +1,4 @@
-heafx
+Hello World
 =====
 
-pages
 hello world
-hello pei
-hello tree
-hello we
